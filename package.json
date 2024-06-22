@@ -1,0 +1,16 @@
+{
+  "name": "beginner-javascript",
+  "version": "1.0.0",
+  "description": "Starter Files and Solutions for the Course",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendrasha/js-notes-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmendrasha/js-notes-2/issues"
+  },
+  "homepage": "https://github.com/dharmendrasha/js-notes-2#readme"
+}
